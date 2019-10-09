@@ -1,0 +1,16 @@
+.ofertas{
+   background-color: red;
+   text-align: center;
+}
+
+.ofertas div{
+   display: inline-block;
+   background-color: yellow;
+   width: 30%;
+   text-align: left;
+}
+
+.ofertas div img{
+   height: 100px;
+   padding: 5xp;
+}
